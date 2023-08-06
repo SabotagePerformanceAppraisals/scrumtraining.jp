@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-size: 1.7em;
+}
+div {
+    margin-top: 50px;
+    margin-left: 20%;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 0.4em;
+}
+
+body {
+    color: gray;
+    font-family: "メイリオ","Hiragino Kaku Gothic Pro",Meiryo,"ヒラギノ角ゴ Pro W3","MS PGothic","MS UI Gothic",Helvetica,Arial,sans-serif;
+}
